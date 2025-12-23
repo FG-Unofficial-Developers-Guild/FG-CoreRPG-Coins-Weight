@@ -6,7 +6,7 @@
 	<properties>
 		<name>Feature: Coins Weight</name>
 		<version>2.4</version>
-		<author>bmos (Wil Thieme)</author>
+		<author>bmos (Ramona T)</author>
 		<description>This extension changes coin weight tracking by making an inventory item rather than just including it in the total carried weight.</description>
 	</properties>
 
